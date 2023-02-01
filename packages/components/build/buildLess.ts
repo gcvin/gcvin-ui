@@ -5,9 +5,9 @@ import less from "less"
 import glob from "fast-glob"
 const sourceDir = resolve(__dirname, '../src')
 //lib文件目录
-const targetLib = resolve(__dirname, '../lib')
+const targetLib = resolve(__dirname, '../lib/src')
 //es文件目录
-const targetEs = resolve(__dirname, '../es')
+const targetEs = resolve(__dirname, '../es/src')
 
 //src目录
 
